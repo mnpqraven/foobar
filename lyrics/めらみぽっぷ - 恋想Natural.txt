@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+Natural"></lrc>
+	<lrc id="245559" artist="繧√ｉ縺ｿ縺ｽ縺｣縺ｷ" title="諱区ΦNatural"></lrc>
+</result>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+R"></lrc>
+	<lrc id="1349688" artist="繝ｦ繝ｪ繧ｫ" title="THE EVENING STAR"></lrc>
+	<lrc id="1229744" artist="繝ｦ繝ｪ繧ｫ[蜷ｫ蛛・錐]" title="THE EVENING STAR"></lrc>
+</result>

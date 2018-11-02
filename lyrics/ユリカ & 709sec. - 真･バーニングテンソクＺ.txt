@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+逵滂ｽ･繝舌・繝九Φ繧ｰ繝・Φ繧ｽ繧ｯ・ｺ"></lrc>
+</result>
+ml:lang="en" lang="en"> 

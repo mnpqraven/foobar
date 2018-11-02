@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+
+	<lrc id="1258990" artist="蟶よ收讀ｿ" title="Seeker"></lrc>
+	<lrc id="1375147" artist="蟶よ收讀ｿ" title="Seeker"></lrc>
+</result>

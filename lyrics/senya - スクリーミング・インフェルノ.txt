@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+げ繝ｻ繧､繝ｳ繝輔ぉ繝ｫ繝・></lrc>
+	<lrc id="1310866" artist="senya" title="繧ｹ繧ｯ繝ｪ繝ｼ繝溘Φ繧ｰ繝ｻ繧､繝ｳ繝輔ぉ繝ｫ繝纂荳ｭ譌･蟆咲・]"></lrc>
+</result>

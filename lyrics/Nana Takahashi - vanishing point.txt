@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+ point"></lrc>
+	<lrc id="1151130" artist="縺・★縺ｿ繧・ title="VANISHING POINT"></lrc>
+	<lrc id="1418899" artist="Nana Takahashi[荳ｭ譌･]" title="vanishing point"></lrc>
+	<lrc id="1657908" artist="Apollo 440" title="Vanishing Point"></lrc>
+	<lrc id="871548" artist="Buono!" title="??? -Vanishing Point-"></lrc>
+	<lrc id="159661" artist="New Order" title="Vanishing Point (Lp Version)"></lrc>
+	<lrc id="634336" artist="New Order" title="Vanishing Point"></lrc>
+	<lrc id="990218" artist="鮟貞ｴ守悄髻ｳ" title="VANISHING POINT"></lrc>
+	<lrc id="1321251" artist="Cranes" title="Vanishing Point"></lrc>
+	<lrc id="519440" artist="鮟貞ｴ守悄髻ｳ" title="VANISHING POINT"></lrc>
+</result>
+
+0
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+</lrc>
+	<lrc id="709367" artist="繝ｪ繝・き [荳ｭ譌･蟇ｹ辣ｧ]" title="Steady night"></lrc>
+</result>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<result errmsg="Search ID or Code error!" errcode="32006"></result>
+ THE FLICKERING"></lrc>
+	<lrc id="1687462" artist="繧ｿ繧ｫ繝翫す繝医Μ繧ｳ" title="IN THE FLICKERING"></lrc>
+</result>
